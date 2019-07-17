@@ -1,24 +1,3 @@
-SimpleAccessibility (Solution Code) 
-===============================
-
-The SimpleAccessibility app demonstrates how to add accessible features 
-to your app's user interface.
-
-All the functionality for this app is in the layout; the app has no actual 
-behavior.   
-
-Pre-requisites
---------------
-
-For this app you should be familiar with: 
-* Creating, building, and running apps in Android Studio.
-* Creating views and layouts in both Android Studio's design editor and XML.
-
-
-Getting Started
----------------
-
-1. Download and open this sample in Android Studio.
 
 
 License
